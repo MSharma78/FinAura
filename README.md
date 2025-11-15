@@ -1,0 +1,2 @@
+# FinAura
+HackNYU Fintech
